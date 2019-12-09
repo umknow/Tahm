@@ -33,6 +33,7 @@ ITEM_PIPELINES = {
 
 # 公账号授权的信息的list，用于在爬虫被禁掉时，自动切换账户
 AUTH_LIST = [
+        {'Account': '1217109650@qq.com', 'PassWord': 'wys0.123456'},
         # {'Account':'119xxxxxx@qq.com','PassWord':'xxxxxxx'}
     ]
 

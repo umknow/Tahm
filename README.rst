@@ -22,5 +22,4 @@ Use the following settings in your project:
 
 .. note::
 
-# @
-Support distributed crawling
+
